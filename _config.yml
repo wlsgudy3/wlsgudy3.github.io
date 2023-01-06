@@ -52,7 +52,7 @@ instagram_username: ccc_jinuuu
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 저는 최진우입니다.
+  안녕하세요. 저는 최진우입니다. 이 홈페이지에는 아직 부족한 것이 많지만 차차 공부해서 채워나가고 싶습니다.
 
 content:
   - title: Projects # Title for the section
